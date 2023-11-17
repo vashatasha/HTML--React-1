@@ -9,7 +9,7 @@ const Cards = ({children="description"}) =>
   <img class="buildings" src="9.png" alt="city" />
   <div class="bold">Lorem ipsum dolor sit amet</div>
   <div class="content">{children}</div>
-  <button type="button" class="go">Go</button>
+  <button type="button" class="go">Go!</button>
 </div>
 </>      
 
